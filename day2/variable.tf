@@ -2,6 +2,7 @@ variable "ami" {
   description = "ami configuration"
   type        = string
 
+
 }
 
 variable "type" {
